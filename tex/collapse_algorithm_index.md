@@ -1,0 +1,30 @@
+| Keyword                  | Chapters              | Context/Notes                                                           |
+|:-------------------------|:----------------------|:------------------------------------------------------------------------|
+| Accountability           | 12                    | Strategic silence of elites and implications for democratic backsliding |
+| Authoritarianism         | 6, 8, 9, 12           | Normalization, corporate alignment, and feedback failure                |
+| Algorithms               | 5, 14                 | Governing code, data sovereignty, and predictive suppression            |
+| Barbara F. Walter        | 12                    | Analysis of institutional decay, quotes with inline citations           |
+| Behavioral collapse      | 12                    | Repetition as system failure                                            |
+| Collapse Curve           | 1, Abstract           | Metaphor for systemic failure                                           |
+| Corporate Power          | 7, 8, 14              | Role in undermining democratic institutions                             |
+| Courts (Captured)        | 12, 14                | Reversal of feedback function and judicial permissiveness               |
+| Disinformation           | 6, 11                 | Role in sustaining broken systems                                       |
+| Democratic Erosion       | 1, Abstract, 12, 14   | Trajectory and diagnosis                                                |
+| Echo Chambers            | 12                    | Replacing feedback loops                                                |
+| Elon Musk                | 14                    | Case study in privatized surveillance and unchecked tech power          |
+| Feedback Loops           | 1, 6, 12              | Reversal and breakdown models                                           |
+| Fracture Zone            | 11                    | Polarization and fragmentation                                          |
+| Impunity                 | 9, 14                 | Trump’s history of unchecked violations; Musk’s judicial shield         |
+| Institutions (Weakened)  | 12, 14                | Strategic culture and system fragility                                  |
+| Judicial Capture         | 12, 14                | Systemic permissiveness, legal outsourcing                              |
+| Media Manipulation       | 6, 12, 14             | Strategic silence and misinformation                                    |
+| Normalization            | 6, 12                 | How collapse is habituated                                              |
+| Palantir                 | 14                    | Data fusion and surveillance as governance                              |
+| Strategic Culture        | 12, 14                | Shifting norms and institutional incentives                             |
+| Surveillance Capitalism  | 14                    | Palantir, DOGE, and technocratic power                                  |
+| Systemic Failure         | Preface, 1–14         | Core framing throughout                                                 |
+| Tony Schwartz            | 9                     | Source for character profile of Trump                                   |
+| Trump (Donald)           | 1, 6, 9, 14           | Personal case study, corruption chronicle                               |
+| Unitary Executive Theory | 6, Abstract           | Centralization of unchecked executive power                             |
+| Venezuela                | 12                    | Comparative authoritarianism reference                                  |
+| Walter, Barbara F.       | See Barbara F. Walter |                                                                         |
