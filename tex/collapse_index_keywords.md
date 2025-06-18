@@ -1,0 +1,26 @@
+# Keyword Index for The Collapse Algorithm
+
+- **Accountability** – Ch. 12; Strategic silence of elites and implications for democratic backsliding.
+- **Authoritarianism** – Ch. 6, 8, 9, 12; Normalization, corporate alignment, and feedback failure.
+- **Algorithms** – Ch. 5; Governing code, data sovereignty, and predictive suppression.
+- **Barbara F. Walter** – Ch. 12; Analysis of institutional decay, quotes with inline citations.
+- **Behavioral collapse** – Ch. 12; Repetition as system failure.
+- **Collapse Curve** – Ch. 1, Abstract; Metaphor for systemic failure.
+- **Corporate Power** – Ch. 7, 8; Role in undermining democratic institutions.
+- **Courts (Captured)** – Ch. 12; Reversal of feedback function.
+- **Disinformation** – Ch. 6, 11; Role in sustaining broken systems.
+- **Democratic Erosion** – Ch. 1, Abstract, 12; Trajectory and diagnosis.
+- **Echo Chambers** – Ch. 12; Replacing feedback loops.
+- **Feedback Loops** – Ch. 1, 6, 12; Reversal and breakdown models.
+- **Fracture Zone** – Ch. 11; Polarization and fragmentation.
+- **Impunity** – Ch. 9; Trump’s history of unchecked violations.
+- **Institutions (Weakened)** – Ch. 12; Strategic culture and system fragility.
+- **Media Manipulation** – Ch. 6, 12; Strategic silence and misinformation.
+- **Normalization** – Ch. 6, 12; How collapse is habituated.
+- **Strategic Culture** – Ch. 12; Shifting norms and institutional incentives.
+- **Systemic Failure** – Preface, Ch. 1–12; Core framing throughout.
+- **Tony Schwartz** – Ch. 9; Source for character profile of Trump.
+- **Trump (Donald)** – Ch. 1, 6, 9; Personal case study, corruption chronicle.
+- **Unitary Executive Theory** – Ch. 6, Abstract; Centralization of unchecked executive power.
+- **Venezuela** – Ch. 12; Comparative authoritarianism reference.
+- **Walter, Barbara F.** – See Barbara F. Walter
